@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learning how this website works.
 - 🌱 I’m currently learning ... how this website works.
 - 💞️ I’m looking to collaborate on ... classwork and trying to understand what everything on this website is. 
-- 📫 How to reach me ... my email.
+- 📫 How to reach me ... my email: schetre@iastate.edu
 
 <!---
 schetre/schetre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
